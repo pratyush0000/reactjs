@@ -1,0 +1,23 @@
+h1{
+  font-weight: 700;
+  font-size: 45px;
+  margin: 15px;
+  margin-bottom: 30px;
+  color: darkblue;
+}
+
+input{
+  width: 100%;
+}
+
+.edit-button{
+  min-width: 75px;
+}
+
+.ItemsContainer{
+  text-align: left;
+}
+
+.edit-row{
+  margin: 10px 5px;
+}
