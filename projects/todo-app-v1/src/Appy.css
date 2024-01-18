@@ -3,7 +3,7 @@ h1{
   font-size: 45px;
   margin: 15px;
   margin-bottom: 30px;
-  color: darkblue;
+  color: darkblue !important;
 }
 
 input{
